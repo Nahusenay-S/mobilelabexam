@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Senay\\.gradle\\daemon\\8.7\\com.dark.notesquote.app-debug-55:\\mipmap_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Senay\\.gradle\\daemon\\8.7\\com.dark.notesquote.app-main-57:\\mipmap\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Senay\\.gradle\\daemon\\8.7\\com.dark.notesquote.app-debug-55:\\mipmap_ic_launcher.png.flat",
+        "source": "C:\\Users\\Senay\\.gradle\\daemon\\8.7\\com.dark.notesquote.app-main-57:\\mipmap\\ic_launcher.png"
+    },
+    {
+        "merged": "com.dark.notesquote.app-debug-55:/mipmap_ic_launcher.png.flat",
+        "source": "com.dark.notesquote.app-main-57:/mipmap/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Senay\\.gradle\\daemon\\8.7\\com.dark.notesquote.app-debug-55:\\xml_file_provider_paths.xml.flat",
+        "source": "C:\\Users\\Senay\\.gradle\\daemon\\8.7\\com.dark.notesquote.app-main-57:\\xml\\file_provider_paths.xml"
+    },
+    {
+        "merged": "com.dark.notesquote.app-debug-55:/mipmap_ic_launcher_round.png.flat",
+        "source": "com.dark.notesquote.app-main-57:/mipmap/ic_launcher_round.png"
+    }
+]
